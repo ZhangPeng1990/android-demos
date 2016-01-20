@@ -1,0 +1,2 @@
+include ':swipelistview'
+include ':swipeListViewExampleActivity'
